@@ -1,16 +1,24 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Fira+Code&size=24&duration=3000&pause=800
+&lines=Flutter+Developer;Learning+Open+Source;Building+Cool+Apps)
 
-<!--
-**xiao-khan/xiao-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Xiao Khan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Flutter Developer  
+💳 Stripe • Supabase • Firebase  
+📍 Pakistan  
+
+---
+
+### 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe)
+
+---
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?
+username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
