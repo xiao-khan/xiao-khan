@@ -1,6 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Fira+Code&size=24&duration=3000&pause=800
-&lines=Flutter+Developer;Learning+Open+Source;Building+Cool+Apps)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=38BDF8&width=500&lines=Flutter+Developer;Learning+Open+Source;Building+Cool+Apps)
+
 
 ---
 
@@ -21,4 +20,4 @@ font=Fira+Code&size=24&duration=3000&pause=800
 
 ### 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?
-username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+username=xiao-khan&show_icons=true&theme=tokyonight)
