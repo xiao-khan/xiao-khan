@@ -1,9 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=38BDF8&width=500&lines=Flutter+Developer;Learning+Open+Source;Building+Cool+Apps)
-
-
----
-
-### 👋 Hi, I'm Xiao Khan
+## 👋 Hi, I'm Xiao Khan
 
 📱 Flutter Developer  
 💳 Stripe • Supabase • Firebase  
@@ -18,5 +13,5 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiao-khan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api.png?username=xiao-khan&show_icons=true&theme=tokyonight" />
