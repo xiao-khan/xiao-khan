@@ -1,14 +1,26 @@
-# 👋 Hey, I'm Xiao Khan
+<div align="center">
 
-**Flutter Developer • Backend Integrations • Real-Time Systems**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Xiao%20Khan&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling" />
 
-I build **production-ready mobile apps** and **scalable backends** with a strong focus on  
-clean architecture, security, and real-time performance.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Flutter+Developer;Backend+Integrations+%26+APIs;Real-time+Systems+%26+MQTT;Stripe+%2B+Supabase+Specialist;Clean+Architecture+Matters" />
 
-> I enjoy turning complex systems (payments, auth, MQTT, analytics)  
-> into simple, reliable user experiences.
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=xiaokhan&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
 
 ---
+
+## 🧠 About Me
+
+```txt
+I build systems that:
+✔ scale predictably
+✔ handle payments securely
+✔ survive real-world edge cases
+✔ stay readable after 6 months
+
 
 ## 🧠 What I Work With
 
