@@ -1,17 +1,73 @@
-## 👋 Hi, I'm Xiao Khan
+# 👋 Hey, I'm Xiao Khan
 
-📱 Flutter Developer  
-💳 Stripe • Supabase • Firebase  
-📍 Pakistan  
+**Flutter Developer • Backend Integrations • Real-Time Systems**
 
----
+I build **production-ready mobile apps** and **scalable backends** with a strong focus on  
+clean architecture, security, and real-time performance.
 
-### 🛠 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe)
+> I enjoy turning complex systems (payments, auth, MQTT, analytics)  
+> into simple, reliable user experiences.
 
 ---
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api.png?username=xiao-khan&show_icons=true&theme=tokyonight" />
+## 🧠 What I Work With
+
+### 📱 Mobile
+- Flutter (production apps)
+- Riverpod / GetX (migration & refactors)
+- Clean Architecture
+- Firebase Analytics & Auth
+
+### 🔌 Backend & APIs
+- REST APIs (Node / Dart)
+- Supabase (Edge Functions, Auth, DB)
+- Stripe (Payment Intents, Webhooks)
+- Secure token handling
+
+### ⚡ Real-Time Systems
+- MQTT (IoT-style messaging)
+- WebSockets
+- Live dashboards & device state sync
+
+### 🛠️ Other Tools
+- Git & GitHub
+- Linux (daily driver)
+- Firebase
+- Docker (basic)
+
+---
+
+## 🚀 Things I Care About
+
+- 🧩 **Architecture over hacks**
+- 🔐 **Security-first APIs**
+- 📉 **Reducing state & complexity**
+- 📡 **Reliable real-time data**
+- 🧼 **Readable, boring, maintainable code**
+
+---
+
+## 🧪 Current Interests
+
+- Migrating large Flutter apps (GetX → Riverpod)
+- Stripe + Supabase payment flows
+- Token lifecycle & auth edge cases
+- MQTT reconnect strategies
+- Analytics that actually matter
+
+---
+
+## 📌 Example: Real-World Focus
+
+```dart
+// Example: Safer API call pattern with token refresh
+final response = await dio.get(
+  '/start-ride',
+  options: Options(
+    headers: {
+      'Authorization': 'Bearer $accessToken',
+    },
+  ),
+);
+
+// Handle 401 → refresh → retry cleanly
